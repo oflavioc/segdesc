@@ -11,6 +11,18 @@ A campanha de phishing visava coletar informações financeiras através de e-ma
 ### URLs Maliciosas
 
 - `https://14022024433343.gatewaypagamentos.site/?cpf=[CPF da Vítima]`
+- `https://app.gatewaypagamentos.site/govbr?cpf=[CPF da Vítima]` 
+- `https://criador.gatewaypagamentos.site/typebots`
+
+### Análise Whois<br>
+Domain: gatewaypagamentos.site<br>
+Registrar: HOSTINGER operations, UAB<br>
+Registered On: 2024-02-01<br>
+Expires On: 2025-02-01<br>
+Updated On: 2024-02-06<br>
+Status: serverTransferProhibited / clientTransferProhibited<br>
+Name Servers: stephane.ns.cloudflare.com / aaron.ns.cloudflare.com<br>
+
 - Após redirecionamento: `https://portais.sdr.sp.gov.br/xmllrpc.php?cpf=[CPF da Vítima]`
 
 ### IPs Relacionados
