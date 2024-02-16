@@ -13,6 +13,8 @@ A campanha de phishing visava coletar informações financeiras através de e-ma
 - `https://14022024433343.gatewaypagamentos.site/?cpf=[CPF da Vítima]`
 - `https://app.gatewaypagamentos.site/govbr?cpf=[CPF da Vítima]` 
 - `https://criador.gatewaypagamentos.site/typebots`
+- `https://notificacaocreditosvrbb9.z24.web.core.windows.net/`
+- `https://apps-resgates-info.online/`
 
 ### Análise Whois<br>
 Domain: gatewaypagamentos.site<br>
