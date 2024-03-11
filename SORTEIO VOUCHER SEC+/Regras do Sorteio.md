@@ -16,14 +16,9 @@ Para ter a chance de ganhar o voucher da prova CompTIA Security+ 701, siga estes
 
 1️⃣ **Siga meu perfil @oflavioc** no Instagram [https://www.instagram.com/oflavioc/](https://www.instagram.com/oflavioc/) e no LinkedIn [https://www.linkedin.com/in/oflavioc/](https://www.linkedin.com/in/oflavioc/)
 
-2️⃣ **Inscreva-se no meu canal no YouTube - Segurança Descomplicada - @segdesc** - [https://www.youtube.com/@segdesc](https://www.youtube.com/@segdesc)
+2️⃣ **Curta a publicação da promoção (no Linkedin ou no Instagram)** e nos comentários conte por que você merece ganhar este voucher. Seja honesto e criativo!
 
-3️⃣ **Curta a publicação da promoção (no Linkedin ou no Instagram)** e nos comentários conte por que você merece ganhar este voucher. Seja honesto e criativo!
-
-4️⃣ **Marque no post do Linkedin ou do Instagram duas (2) pessoas** quem você sabe que está estudando e acha que merece ganhar esse voucher.
-
-5️⃣ **Compartilhe o post da promoção (LinkedIn ou Instagram) em suas mídias sociais!**
-
+3️⃣ **Compartilhe o post da promoção (LinkedIn ou Instagram) em suas mídias sociais!**
 
 Lembrando que o sorteio é aberto apenas para aqueles que se inscreverem e cumprirem TODOS os requisitos acima mencionados. 
 
